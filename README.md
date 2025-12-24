@@ -65,7 +65,7 @@ Publish the website in the LocalHost.
     .title {
       font-size: 28px;
       font-weight: bold;
-      color: #005842;
+      color: #002219;
       text-align: center;
       line-height:1.3;
       margin-top: 200px;
@@ -87,7 +87,7 @@ Publish the website in the LocalHost.
     .author {
       font-size: 18px;
       text-align: right;
-      color: #00502f;
+      color: #00683d;
       margin-top: 20px;
     }
 
@@ -107,14 +107,14 @@ Publish the website in the LocalHost.
       <div class="line"></div>
       <div class="subtitle">BASICS FOR CREATING A WEB APPLICATIONS</div>
     </div>
-    <div class="author">~ SUNDARESWARAN K (25007080)</div>
+    <div class="author">~ KANISHK ARYA S (25014767)</div>
   </div>
 </body>
 </html>
 ```
 
 ## OUTPUT:
-![alt text](image.png)
+![alt text](<Screenshot 2025-12-24 075243.png>)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
